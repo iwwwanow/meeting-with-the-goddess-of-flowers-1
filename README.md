@@ -44,3 +44,7 @@
 ![simple-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/simple/simple.png)
 
 `rabota1!`
+
+---
+
+`Кирилл Иванов, Москва, 2021`
