@@ -1,0 +1,8 @@
+![dark-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/day-and-night/dark.gif)
+![light-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/day-and-night/light.gif)
+![blue-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/rgb/blue.gif)
+![green-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/rgb/green.gif)
+![red-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/rgb/red.gif)
+![inversion-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/rgb/inversion.gif)
+![chromatic-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/rgb/chromatic.svg)
+![simple-meeting-with-the-goddess-of-flowers](https://github.com/iwwwanow/meeting-with-the-goddess-of-flowers-1/blob/main/variants/digital/simple/simple.png)
